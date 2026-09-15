@@ -116,6 +116,6 @@ Here you'll find practical examples and learning projects around:
 
 ## 📫 Let's Connect
 
-I'm interested in collaborating and sharing knowledge around **Tableau, Enterprise BI, Microsoft Fabric, Data Engineering, Cloud Analytics, BI Modernization, MCP, and AI-assisted Analytics**.
+I'm interested in collaborating and sharing knowledge around **Tableau, Enterprise BI, Microsoft Fabric, Data Modelling, Databricks, BIEngineering, Cloud Analytics, BI Modernization, MCP, and AI-assisted Analytics**.
 
 Thanks for visiting my GitHub profile! 🚀
