@@ -1,6 +1,6 @@
 # Hi, I'm Thandava Krishna Jagarlamudi 👋
 
-## Senior Tableau Engineer | BI Consultant | Analytics Engineer | Data & AI Professional
+## Senior Tableau Engineer | BI Consultant | Analytics Engineer | Data & AI Professional 
 
 I am a Business Intelligence, Analytics, and Data professional with extensive experience designing, developing, migrating, and modernizing enterprise BI and analytics solutions.
 
