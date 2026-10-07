@@ -10,7 +10,7 @@ My experience spans **Tableau, Power BI, Microsoft Fabric, Pyramid Analytics, CM
 
 ## 📊 BI & Analytics
 
-**Tableau** • Power BI • Microsoft Fabric • Pyramid Analytics • CMDB Dashboards • Domo • SAP BusinessObjects • MicroStrategy • SAS • SSRS • Looker • Sigma
+**Tableau** • Power BI • Microsoft Fabric • Sagemaker • Pyramid Analytics • CMDB Dashboards • Domo • SAP BusinessObjects • MicroStrategy • SAS • SSRS • Looker • Sigma
 
 ### Tableau
 - Tableau Desktop, Server, Cloud & Prep
